@@ -27,7 +27,6 @@ The v2 yield tokens can be used in one lender at a time. Currently being used on
 
 ### v3 Yield Tokens
 
-
 Vaults follow unique strategies that are designed to maximize yield of the deposited asset and minimize risk. The vaults are maintained by a `Controller` which oversees the strategy execution. Strategies' generated profits are used to buy respective vault underlying asset.
 
 The `Controller` contract can be found [here](https://etherscan.io/address/0x9e65ad11b299ca0abefc2799ddb6314ef2d91080#code) and the source code can be found [here](https://github.com/iearn-finance/yearn-protocol/blob/develop/contracts/controllers/Controller.sol).
