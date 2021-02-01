@@ -1,0 +1,25 @@
+{
+  "name": "yearn-tokenlist-development",
+  "version": "1.0.0",
+  "description": "vaultlist with schema validation",
+  "main": "index.mjs",
+  "dependencies": {},
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.16",
+    "ajv": "^6.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules --experimental-json-modules ./index.mjs"
+  },
+  "keywords": [
+    "tokens",
+    "yearn",
+    "vaults",
+    "defi",
+    "tokenlist",
+    "uniswap",
+    "schema",
+    "ethereum"
+  ]
+}
