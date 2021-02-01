@@ -1,0 +1,123 @@
+
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "apiVersion": {
+      "type": "string"
+    },
+    "blockNumber": {
+      "type": "string"
+    },
+    "deploymentId": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "strategies": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "blockNumber": {
+              "type": "string"
+            },
+            "debtLimit": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "performanceFee": {
+              "type": "string"
+            },
+            "rateLimit": {
+              "type": "string"
+            },
+            "strategy": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "vault": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "blockNumber",
+            "debtLimit",
+            "id",
+            "performanceFee",
+            "rateLimit",
+            "strategy",
+            "timestamp",
+            "vault"
+          ]
+        }
+      ]
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "token": {
+      "type": "string"
+    },
+    "tokenDecimals": {
+      "type": "string"
+    },
+    "tokenName": {
+      "type": "string"
+    },
+    "tokenSymbol": {
+      "type": "string"
+    },
+    "transaction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id"
+      ]
+    },
+    "vault": {
+      "type": "string"
+    },
+    "vaultDecimals": {
+      "type": "string"
+    },
+    "vaultName": {
+      "type": "string"
+    },
+    "vaultSymbol": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "apiVersion",
+    "blockNumber",
+    "deploymentId",
+    "id",
+    "status",
+    "strategies",
+    "timestamp",
+    "token",
+    "tokenDecimals",
+    "tokenName",
+    "tokenSymbol",
+    "transaction",
+    "vault",
+    "vaultDecimals",
+    "vaultName",
+    "vaultSymbol"
+  ]
+}

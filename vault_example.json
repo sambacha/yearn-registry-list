@@ -15,26 +15,6 @@
         "strategy": "0x0835c3993ad6e2f1731da4782c3add6dfbf0abf0",
         "timestamp": "1607114109000",
         "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6"
-      },
-      {
-        "blockNumber": "7662770",
-        "debtLimit": "0",
-        "id": "0x55de61877b4296ce9697a6492601602409d78ee8",
-        "performanceFee": "0",
-        "rateLimit": "0",
-        "strategy": "0x55de61877b4296ce9697a6492601602409d78ee8",
-        "timestamp": "1607114139000",
-        "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6"
-      },
-      {
-        "blockNumber": "7662772",
-        "debtLimit": "0",
-        "id": "0x9e23e6c8d77ecd758ab31d00f8e0ec1b34595e07",
-        "performanceFee": "0",
-        "rateLimit": "0",
-        "strategy": "0x9e23e6c8d77ecd758ab31d00f8e0ec1b34595e07",
-        "timestamp": "1607114169000",
-        "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6"
       }
     ],
     "timestamp": "1607113404000",

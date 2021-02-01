@@ -1,0 +1,31 @@
+{
+    "apiVersion": "0.2.2",
+    "blockNumber": "7662721",
+    "deploymentId": "0",
+    "id": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6",
+    "status": "Endorsed",
+    "strategies": [
+      {
+        "blockNumber": "7662768",
+        "debtLimit": "0",
+        "id": "0x0835c3993ad6e2f1731da4782c3add6dfbf0abf0",
+        "performanceFee": "0",
+        "rateLimit": "0",
+        "strategy": "0x0835c3993ad6e2f1731da4782c3add6dfbf0abf0",
+        "timestamp": "1607114109000",
+        "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6"
+      }
+    ],
+    "timestamp": "1607113404000",
+    "token": "0xdf032bc4b9dc2782bb09352007d4c57b75160b15",
+    "tokenDecimals": "18",
+    "tokenName": "Wrapped Ether",
+    "tokenSymbol": "WETH",
+    "transaction": {
+      "id": "0xa9719441a00d1de9142c26fc1842059eb5d93b19352b9c7c88b2273da29bc7ac-71"
+    },
+    "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6",
+    "vaultDecimals": "18",
+    "vaultName": "Yearn Wrapped Ether Vault",
+    "vaultSymbol": "yvWETH"
+}

@@ -1,0 +1,20 @@
+{
+    "apiVersion": "0.2.2",
+    "vault": "0x81f69866e3838a26fdcab3f22efc1bdb549cebad",
+    "vaultDecimals": "18",
+    "vaultName": "Yearn Graph Token Vault",
+    "vaultSymbol": "yvGRT",
+    "status": "Experimental",
+    "strategies": [{
+        "blockNumber": "7662770",
+        "debtLimit": "0",
+        "id": "0x55de61877b4296ce9697a6492601602409d78ee8",
+        "performanceFee": "0",
+        "rateLimit": "0",
+        "strategy": "0x55de61877b4296ce9697a6492601602409d78ee8",
+        "timestamp": "1607114139000",
+        "vault": "0x03c78f5af012e0eef74dc0a7d3fee4f728a4ffa6"
+    }],
+    "debtLimit": "0",
+    "blockNumber": "7662770"
+}
