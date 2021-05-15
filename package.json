@@ -5,8 +5,8 @@
   "main": "index.mjs",
   "dependencies": {},
   "devDependencies": {
-    "@uniswap/token-lists": "^1.0.0-beta.16",
-    "ajv": "^6.12.4"
+    "@uniswap/token-lists": "1.0.0-beta.24",
+    "ajv": "6.12.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
