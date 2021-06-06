@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "@uniswap/token-lists": "^1.0.0-beta.16",
-    "ajv": "^6.12.4"
+    "ajv": "8.6.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
